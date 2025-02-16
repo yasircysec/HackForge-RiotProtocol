@@ -3,6 +3,8 @@
 ## 🔒 About the Project
 HackForge Riot Protocol is a **decentralized security gateway system for IoT networks**, designed to provide **secure authentication, encrypted data transmission, and tamper-proof integrity** using **blockchain technology, smart contracts, and cryptography**. Built for the **HackForge Hackathon**, this project aims to revolutionize IoT security by eliminating central points of failure and ensuring full device trustworthiness.
 
+![image](https://github.com/yasircysec/HackForge-RiotProtocol/blob/main/client/public/image.png)
+
 ---
 
 ## ⚡ Key Features
